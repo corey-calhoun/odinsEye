@@ -23,4 +23,4 @@ let getData = html => {
     console.log(data);
 }
 
-getData(response.data)
+getData(response.data);
